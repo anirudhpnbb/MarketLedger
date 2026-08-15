@@ -1,0 +1,57 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [master]
+  schedule:
+    # Every 30 min, 03:00-11:00 UTC (~08:30-16:30 IST), Mon-Fri -- covers
+    # the NSE trading session so price/news data stays reasonably fresh.
+    - cron: '*/30 3-11 * * 1-5'
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - run: npm ci
+
+      - name: Fetch price/news/watchlist data server-side (no browser CORS here)
+        run: npx tsx scripts/buildStaticData.ts
+
+      - name: Export static web build
+        run: npx expo export --platform web
+
+      - name: Fix asset paths for GitHub Pages subpath
+        run: node scripts/fixWebPaths.mjs
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

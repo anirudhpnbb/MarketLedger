@@ -1,13 +1,16 @@
 {
   "expo": {
-    "name": "MarketLedger",
+    "name": "Market Ledger",
     "slug": "MarketLedger",
+    "scheme": "marketledger",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0B0D10",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "backgroundColor": "#0B0D10"
     },
     "android": {
       "adaptiveIcon": {
@@ -20,6 +23,10 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-font",
+      "expo-splash-screen"
+    ]
   }
 }

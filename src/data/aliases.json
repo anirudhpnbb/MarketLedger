@@ -1,0 +1,1582 @@
+{
+"RELIANCE": [
+"reliance",
+"ril",
+"jio"
+],
+"TCS": [
+"tcs",
+"tata consultancy"
+],
+"HDFCBANK": [
+"hdfc bank",
+"hdfc"
+],
+"INFY": [
+"infosys",
+"infy"
+],
+"ITC": [
+"itc"
+],
+"360ONE": [
+"360 one wam",
+"360one"
+],
+"3MINDIA": [
+"3m india",
+"3mindia"
+],
+"ACC": [
+"acc"
+],
+"AIAENG": [
+"aia engineering",
+"aiaeng"
+],
+"APLAPOLLO": [
+"apl apollo tubes",
+"aplapollo"
+],
+"AUBANK": [
+"au small finance bank",
+"aubank"
+],
+"AWL": [
+"awl",
+"awl agri business"
+],
+"ABBOTINDIA": [
+"abbotindia",
+"abbott india"
+],
+"ATGL": [
+"adani total gas",
+"atgl"
+],
+"ABCAPITAL": [
+"abcapital",
+"aditya birla capital"
+],
+"AJANTPHARM": [
+"ajanta pharmaceuticals",
+"ajantpharm"
+],
+"ALKEM": [
+"alkem",
+"alkem laboratories"
+],
+"ANTHEM": [
+"anthem",
+"anthem biosciences"
+],
+"APARINDS": [
+"apar industries",
+"aparinds"
+],
+"APOLLOTYRE": [
+"apollo tyres",
+"apollotyre"
+],
+"ASHOKLEY": [
+"ashok leyland",
+"ashokley"
+],
+"ASTRAL": [
+"astral"
+],
+"AUROPHARMA": [
+"aurobindo pharma",
+"auropharma"
+],
+"AIIL": [
+"aiil",
+"authum investment & infrastructure"
+],
+"BSE": [
+"bse"
+],
+"BAJAJHFL": [
+"bajaj housing finance",
+"bajajhfl"
+],
+"BALKRISIND": [
+"balkrishna industries",
+"balkrisind"
+],
+"BANKINDIA": [
+"bank of india",
+"bankindia"
+],
+"MAHABANK": [
+"bank of maharashtra",
+"mahabank"
+],
+"BERGEPAINT": [
+"bergepaint",
+"berger paints india"
+],
+"BDL": [
+"bdl",
+"bharat dynamics"
+],
+"BHARATFORG": [
+"bharat forge",
+"bharatforg"
+],
+"BHEL": [
+"bharat heavy electricals",
+"bhel"
+],
+"BHARTIHEXA": [
+"bharti hexacom",
+"bhartihexa"
+],
+"GROWW": [
+"billionbrains garage ventures",
+"groww"
+],
+"BIOCON": [
+"biocon"
+],
+"BLUESTARCO": [
+"blue star",
+"bluestarco"
+],
+"CRISIL": [
+"crisil"
+],
+"COCHINSHIP": [
+"cochin shipyard",
+"cochinship"
+],
+"COFORGE": [
+"coforge"
+],
+"COLPAL": [
+"colgate palmolive (india)",
+"colpal"
+],
+"CONCOR": [
+"concor",
+"container corporation of india"
+],
+"COROMANDEL": [
+"coromandel",
+"coromandel international"
+],
+"DABUR": [
+"dabur",
+"dabur india"
+],
+"DALBHARAT": [
+"dalbharat",
+"dalmia bharat"
+],
+"DIXON": [
+"dixon"
+],
+"ENDURANCE": [
+"endurance",
+"endurance technologies"
+],
+"ESCORTS": [
+"escorts",
+"escorts kubota"
+],
+"EXIDEIND": [
+"exide industries",
+"exideind"
+],
+"NYKAA": [
+"fsn e-commerce ventures",
+"nykaa"
+],
+"FEDERALBNK": [
+"federal bank",
+"federalbnk"
+],
+"FORTIS": [
+"fortis",
+"fortis healthcare"
+],
+"GVT&D": [
+"ge vernova t&d india",
+"gvt&d"
+],
+"GMRAIRPORT": [
+"gmr airports",
+"gmrairport"
+],
+"GICRE": [
+"general insurance corporation of india",
+"gicre"
+],
+"GLAXO": [
+"glaxo",
+"glaxosmithkline pharmaceuticals"
+],
+"GLENMARK": [
+"glenmark",
+"glenmark pharmaceuticals"
+],
+"MEDANTA": [
+"global health",
+"medanta"
+],
+"GODFRYPHLP": [
+"godfrey phillips india",
+"godfryphlp"
+],
+"GODREJIND": [
+"godrej industries",
+"godrejind"
+],
+"GODREJPROP": [
+"godrej properties",
+"godrejprop"
+],
+"FLUOROCHEM": [
+"fluorochem",
+"gujarat fluorochemicals"
+],
+"HDBFS": [
+"hdb financial services",
+"hdbfs"
+],
+"HAVELLS": [
+"havells",
+"havells india"
+],
+"HEROMOTOCO": [
+"hero motocorp",
+"heromotoco"
+],
+"HEXT": [
+"hexaware technologies",
+"hext"
+],
+"HINDPETRO": [
+"hindpetro",
+"hindustan petroleum"
+],
+"POWERINDIA": [
+"hitachi energy india",
+"powerindia"
+],
+"HONAUT": [
+"honaut",
+"honeywell automation india"
+],
+"HUDCO": [
+"housing & urban development",
+"hudco"
+],
+"ICICIGI": [
+"icici lombard general insurance",
+"icicigi"
+],
+"ICICIAMC": [
+"icici prudential asset management",
+"iciciamc"
+],
+"ICICIPRULI": [
+"icici prudential life insurance",
+"icicipruli"
+],
+"IDFCFIRSTB": [
+"idfc first bank",
+"idfcfirstb"
+],
+"ITCHOTELS": [
+"itc hotels",
+"itchotels"
+],
+"INDIANB": [
+"indian bank",
+"indianb"
+],
+"IRCTC": [
+"indian railway catering and tourism",
+"irctc"
+],
+"IREDA": [
+"indian renewable energy development agency",
+"ireda"
+],
+"INDUSTOWER": [
+"indus towers",
+"industower"
+],
+"INDUSINDBK": [
+"indusind bank",
+"indusindbk"
+],
+"NAUKRI": [
+"info edge (india)",
+"naukri"
+],
+"IPCALAB": [
+"ipca laboratories",
+"ipcalab"
+],
+"JKCEMENT": [
+"j.k. cement",
+"jkcement"
+],
+"JSWENERGY": [
+"jsw energy",
+"jswenergy"
+],
+"JSWINFRA": [
+"jsw infrastructure",
+"jswinfra"
+],
+"JSL": [
+"jindal stainless",
+"jsl"
+],
+"JUBLFOOD": [
+"jubilant foodworks",
+"jublfood"
+],
+"KPRMILL": [
+"k.p.r. mill",
+"kprmill"
+],
+"KEI": [
+"kei",
+"kei industries"
+],
+"KPITTECH": [
+"kpit"
+],
+"KALYANKJIL": [
+"kalyan jewellers india",
+"kalyankjil"
+],
+"LTF": [
+"l&t finance",
+"ltf"
+],
+"LTTS": [
+"l&t technology services",
+"ltts"
+],
+"LGEINDIA": [
+"lg electronics india",
+"lgeindia"
+],
+"LICHSGFIN": [
+"lic housing finance",
+"lichsgfin"
+],
+"LAURUSLABS": [
+"laurus labs",
+"lauruslabs"
+],
+"LENSKART": [
+"lenskart",
+"lenskart solutions"
+],
+"LICI": [
+"lici",
+"life insurance corporation of india"
+],
+"LINDEINDIA": [
+"linde india",
+"lindeindia"
+],
+"LLOYDSME": [
+"lloyds metals and energy",
+"lloydsme"
+],
+"LUPIN": [
+"lupin"
+],
+"MRF": [
+"mrf"
+],
+"M&MFIN": [
+"m&mfin",
+"mahindra & mahindra financial services"
+],
+"MANKIND": [
+"mankind",
+"mankind pharma"
+],
+"MARICO": [
+"marico"
+],
+"MFSL": [
+"max financial services",
+"mfsl"
+],
+"MOTILALOFS": [
+"motilal oswal financial services",
+"motilalofs"
+],
+"MPHASIS": [
+"mphasis"
+],
+"MCX": [
+"mcx",
+"multi commodity exchange of india"
+],
+"NHPC": [
+"nhpc"
+],
+"NLCINDIA": [
+"nlc india",
+"nlcindia"
+],
+"NMDC": [
+"nmdc"
+],
+"NTPCGREEN": [
+"ntpc green energy",
+"ntpcgreen"
+],
+"NATIONALUM": [
+"national aluminium",
+"nationalum"
+],
+"NAM-INDIA": [
+"nam-india",
+"nippon life india asset management"
+],
+"OBEROIRLTY": [
+"oberoi realty",
+"oberoirlty"
+],
+"OIL": [
+"oil",
+"oil india"
+],
+"PAYTM": [
+"one 97 communications",
+"paytm"
+],
+"OFSS": [
+"ofss",
+"oracle financial services software"
+],
+"POLICYBZR": [
+"pb fintech",
+"policybzr"
+],
+"PIIND": [
+"pi industries",
+"piind"
+],
+"PAGEIND": [
+"page industries",
+"pageind"
+],
+"PATANJALI": [
+"patanjali",
+"patanjali foods"
+],
+"PERSISTENT": [
+"persistent systems",
+"persistent"
+],
+"PETRONET": [
+"petronet",
+"petronet lng"
+],
+"PHOENIXLTD": [
+"phoenix mills",
+"phoenixltd"
+],
+"POLYCAB": [
+"polycab"
+],
+"PREMIERENE": [
+"premier energies",
+"premierene"
+],
+"PRESTIGE": [
+"prestige",
+"prestige estates projects"
+],
+"RADICO": [
+"radico",
+"radico khaitan"
+],
+"RVNL": [
+"rail vikas nigam",
+"rvnl"
+],
+"SBICARD": [
+"sbi cards and payment services",
+"sbicard"
+],
+"SJVN": [
+"sjvn"
+],
+"SRF": [
+"srf"
+],
+"SCHAEFFLER": [
+"schaeffler",
+"schaeffler india"
+],
+"SAIL": [
+"sail",
+"steel authority of india"
+],
+"SUNDARMFIN": [
+"sundaram finance",
+"sundarmfin"
+],
+"SUPREMEIND": [
+"supreme industries",
+"supremeind"
+],
+"SUZLON": [
+"suzlon",
+"suzlon energy"
+],
+"SWIGGY": [
+"swiggy"
+],
+"TATACOMM": [
+"tata communications",
+"tatacomm"
+],
+"TATAELXSI": [
+"tata elxsi",
+"elxsi"
+],
+"TATAINVEST": [
+"tata investment",
+"tatainvest"
+],
+"NIACL": [
+"niacl",
+"the new india assurance"
+],
+"THERMAX": [
+"thermax"
+],
+"TORNTPOWER": [
+"torntpower",
+"torrent power"
+],
+"TIINDIA": [
+"tiindia",
+"tube investments of india"
+],
+"UNOMINDA": [
+"uno minda",
+"unominda"
+],
+"UPL": [
+"upl"
+],
+"UBL": [
+"ubl",
+"united breweries"
+],
+"VMM": [
+"vishal mega mart",
+"vmm"
+],
+"IDEA": [
+"idea",
+"vodafone idea"
+],
+"VOLTAS": [
+"voltas"
+],
+"WAAREEENER": [
+"waaree energies",
+"waareeener"
+],
+"YESBANK": [
+"yes bank",
+"yesbank"
+],
+"ACMESOLAR": [
+"acme solar holdings",
+"acmesolar"
+],
+"AADHARHFC": [
+"aadhar housing finance",
+"aadharhfc"
+],
+"AARTIIND": [
+"aarti industries",
+"aartiind"
+],
+"AAVAS": [
+"aavas",
+"aavas financiers"
+],
+"ACE": [
+"ace",
+"action construction equipment"
+],
+"ACUTAAS": [
+"acutaas",
+"acutaas chemicals"
+],
+"ABFRL": [
+"abfrl",
+"aditya birla fashion and retail"
+],
+"ABLBL": [
+"ablbl",
+"aditya birla lifestyle brands"
+],
+"ABREL": [
+"abrel",
+"aditya birla real estate"
+],
+"ABSLAMC": [
+"abslamc",
+"aditya birla sun life amc"
+],
+"CPPLUS": [
+"aditya infotech",
+"cpplus"
+],
+"AEGISLOG": [
+"aegis logistics",
+"aegislog"
+],
+"AEGISVOPAK": [
+"aegis vopak terminals",
+"aegisvopak"
+],
+"AFCONS": [
+"afcons",
+"afcons infrastructure"
+],
+"AFFLE": [
+"affle",
+"affle 3i"
+],
+"ABDL": [
+"abdl",
+"allied blenders and distillers"
+],
+"ARE&M": [
+"amara raja energy & mobility",
+"are&m"
+],
+"AMBER": [
+"amber",
+"amber enterprises india"
+],
+"ANANDRATHI": [
+"anand rathi wealth",
+"anandrathi"
+],
+"ANANTRAJ": [
+"anant raj",
+"anantraj"
+],
+"ANGELONE": [
+"angel one",
+"angelone"
+],
+"ANURAS": [
+"anupam rasayan india",
+"anuras"
+],
+"APTUS": [
+"aptus",
+"aptus value housing finance india"
+],
+"ASAHIINDIA": [
+"asahi india glass",
+"asahiindia"
+],
+"ASTERDM": [
+"aster dm quality care",
+"asterdm"
+],
+"ATHERENERG": [
+"ather energy",
+"atherenerg"
+],
+"ATUL": [
+"atul"
+],
+"BEML": [
+"beml"
+],
+"BLS": [
+"bls",
+"bls international services"
+],
+"BALRAMCHIN": [
+"balramchin",
+"balrampur chini mills"
+],
+"BANDHANBNK": [
+"bandhan bank",
+"bandhanbnk"
+],
+"BATAINDIA": [
+"bata india",
+"bataindia"
+],
+"BAYERCROP": [
+"bayer cropscience",
+"bayercrop"
+],
+"BELRISE": [
+"belrise",
+"belrise industries"
+],
+"BIKAJI": [
+"bikaji",
+"bikaji foods international"
+],
+"BSOFT": [
+"birlasoft",
+"bsoft"
+],
+"BLUEDART": [
+"blue dart express",
+"bluedart"
+],
+"BLUEJET": [
+"blue jet healthcare",
+"bluejet"
+],
+"BBTC": [
+"bbtc",
+"bombay burmah trading"
+],
+"FIRSTCRY": [
+"brainbees solutions",
+"firstcry"
+],
+"BRIGADE": [
+"brigade",
+"brigade enterprises"
+],
+"MAPMYINDIA": [
+"c.e. info systems",
+"mapmyindia"
+],
+"CCL": [
+"ccl",
+"ccl products (i)"
+],
+"CESC": [
+"cesc"
+],
+"CIEINDIA": [
+"cie automotive india",
+"cieindia"
+],
+"CANFINHOME": [
+"can fin homes",
+"canfinhome"
+],
+"CANHLIFE": [
+"canara hsbc life insurance",
+"canhlife"
+],
+"CAPLIPOINT": [
+"caplin point laboratories",
+"caplipoint"
+],
+"CGCL": [
+"capri global capital",
+"cgcl"
+],
+"CARBORUNIV": [
+"carborundum universal",
+"carboruniv"
+],
+"CARTRADE": [
+"cartrade",
+"cartrade tech"
+],
+"CASTROLIND": [
+"castrol india",
+"castrolind"
+],
+"CEATLTD": [
+"ceat",
+"ceatltd"
+],
+"CEMPRO": [
+"cemindia projects",
+"cempro"
+],
+"CENTRALBK": [
+"central bank of india",
+"centralbk"
+],
+"CDSL": [
+"cdsl",
+"central depository"
+],
+"CHALET": [
+"chalet",
+"chalet hotels"
+],
+"CHAMBLFERT": [
+"chambal fertilizers & chemicals",
+"chamblfert"
+],
+"CHENNPETRO": [
+"chennai petroleum",
+"chennpetro"
+],
+"CHOICEIN": [
+"choice international",
+"choicein"
+],
+"CHOLAHLDNG": [
+"cholahldng",
+"cholamandalam financial holdings"
+],
+"CUB": [
+"city union bank",
+"cub"
+],
+"CLEAN": [
+"clean",
+"clean science and technology"
+],
+"COHANCE": [
+"cohance",
+"cohance lifesciences"
+],
+"CAMS": [
+"computer age management",
+"cams"
+],
+"CONCORDBIO": [
+"concord biotech",
+"concordbio"
+],
+"CRAFTSMAN": [
+"craftsman",
+"craftsman automation"
+],
+"CREDITACC": [
+"creditacc",
+"creditaccess grameen"
+],
+"CROMPTON": [
+"crompton",
+"crompton greaves consumer electricals"
+],
+"CYIENT": [
+"cyient"
+],
+"DCMSHRIRAM": [
+"dcm shriram",
+"dcmshriram"
+],
+"DOMS": [
+"doms",
+"doms industries"
+],
+"DATAPATTNS": [
+"data patterns (india)",
+"datapattns"
+],
+"DEEPAKFERT": [
+"deepak fertilisers & petrochemicals",
+"deepakfert"
+],
+"DEEPAKNTR": [
+"deepak nitrite"
+],
+"DELHIVERY": [
+"delhivery"
+],
+"DEVYANI": [
+"devyani",
+"devyani international"
+],
+"LALPATHLAB": [
+"dr. lal path labs",
+"lalpathlab"
+],
+"EIDPARRY": [
+"e.i.d. parry (india)",
+"eidparry"
+],
+"EIHOTEL": [
+"eih",
+"eihotel"
+],
+"ELECON": [
+"elecon",
+"elecon engineering"
+],
+"ELGIEQUIP": [
+"elgi equipments",
+"elgiequip"
+],
+"EMAMILTD": [
+"emami",
+"emamiltd"
+],
+"EMCURE": [
+"emcure",
+"emcure pharmaceuticals"
+],
+"EMMVEE": [
+"emmvee",
+"emmvee photovoltaic power"
+],
+"ENGINERSIN": [
+"engineers india",
+"enginersin"
+],
+"ERIS": [
+"eris",
+"eris lifesciences"
+],
+"FACT": [
+"fact",
+"fertilisers and chemicals travancore"
+],
+"FINCABLES": [
+"fincables",
+"finolex cables"
+],
+"FSL": [
+"firstsource solutions",
+"fsl"
+],
+"FIVESTAR": [
+"five-star business finance",
+"fivestar"
+],
+"FORCEMOT": [
+"force motors",
+"forcemot"
+],
+"GABRIEL": [
+"gabriel",
+"gabriel india"
+],
+"GALLANTT": [
+"gallantt",
+"gallantt ispat"
+],
+"GRSE": [
+"garden reach shipbuilders & engineers",
+"grse"
+],
+"GILLETTE": [
+"gillette",
+"gillette india"
+],
+"GLAND": [
+"gland",
+"gland pharma"
+],
+"GODIGIT": [
+"go digit general insurance",
+"godigit"
+],
+"GPIL": [
+"godawari power & ispat",
+"gpil"
+],
+"GRANULES": [
+"granules",
+"granules india"
+],
+"GRAPHITE": [
+"graphite",
+"graphite india"
+],
+"GRAVITA": [
+"gravita",
+"gravita india"
+],
+"GESHIP": [
+"geship",
+"great eastern shipping"
+],
+"GMDCLTD": [
+"gmdcltd",
+"gujarat mineral development"
+],
+"HEG": [
+"h.e.g",
+"heg"
+],
+"HBLENGINE": [
+"hbl engineering",
+"hblengine"
+],
+"HFCL": [
+"hfcl"
+],
+"HSCL": [
+"himadri speciality chemical",
+"hscl"
+],
+"HINDCOPPER": [
+"hindcopper",
+"hindustan copper"
+],
+"HOMEFIRST": [
+"home first finance company india",
+"homefirst"
+],
+"HONASA": [
+"honasa",
+"honasa consumer"
+],
+"IDBI": [
+"idbi",
+"idbi bank"
+],
+"IFCI": [
+"ifci"
+],
+"IIFL": [
+"iifl",
+"iifl finance"
+],
+"IRB": [
+"irb",
+"irb infrastructure developers"
+],
+"IRCON": [
+"ircon",
+"ircon international"
+],
+"ITI": [
+"iti"
+],
+"INDGN": [
+"indegene",
+"indgn"
+],
+"INDIACEM": [
+"india cements",
+"indiacem"
+],
+"INDIAMART": [
+"indiamart",
+"indiamart intermesh"
+],
+"IEX": [
+"indian energy exchange",
+"iex"
+],
+"IOB": [
+"indian overseas bank",
+"iob"
+],
+"IGL": [
+"igl",
+"indraprastha gas"
+],
+"INOXWIND": [
+"inox wind",
+"inoxwind"
+],
+"INTELLECT": [
+"intellect",
+"intellect design arena"
+],
+"IGIL": [
+"igil",
+"international gemological institute"
+],
+"IKS": [
+"iks",
+"inventurus knowledge solutions"
+],
+"JBMA": [
+"jbm auto",
+"jbma"
+],
+"JKTYRE": [
+"jk tyre & industries",
+"jktyre"
+],
+"JMFINANCIL": [
+"jm financial",
+"jmfinancil"
+],
+"JSWCEMENT": [
+"jsw cement",
+"jswcement"
+],
+"JSWDULUX": [
+"jsw dulux",
+"jswdulux"
+],
+"JAINREC": [
+"jain resource recycling",
+"jainrec"
+],
+"JPPOWER": [
+"jaiprakash power ventures",
+"jppower"
+],
+"J&KBANK": [
+"j&kbank",
+"jammu & kashmir bank"
+],
+"JINDALSAW": [
+"jindal saw",
+"jindalsaw"
+],
+"JUBLINGREA": [
+"jubilant ingrevia",
+"jublingrea"
+],
+"JUBLPHARMA": [
+"jubilant pharmova",
+"jublpharma"
+],
+"JWL": [
+"jupiter wagons",
+"jwl"
+],
+"JYOTICNC": [
+"jyoti cnc automation",
+"jyoticnc"
+],
+"KAJARIACER": [
+"kajaria ceramics",
+"kajariacer"
+],
+"KPIL": [
+"kalpataru projects international",
+"kpil"
+],
+"KARURVYSYA": [
+"karur vysya bank",
+"karurvysya"
+],
+"KAYNES": [
+"kaynes",
+"kaynes technology india"
+],
+"KEC": [
+"kec",
+"kec international"
+],
+"KFINTECH": [
+"kfin technologies",
+"kfintech"
+],
+"KIRLOSENG": [
+"kirloseng",
+"kirloskar oil eng"
+],
+"KIMS": [
+"kims",
+"krishna institute of medical sciences"
+],
+"LTFOODS": [
+"lt foods",
+"ltfoods"
+],
+"LATENTVIEW": [
+"latent view analytics",
+"latentview"
+],
+"THELEELA": [
+"leela palaces hotels & resorts",
+"theleela"
+],
+"LEMONTREE": [
+"lemon tree hotels",
+"lemontree"
+],
+"MMTC": [
+"mmtc"
+],
+"MGL": [
+"mahanagar gas",
+"mgl"
+],
+"MANAPPURAM": [
+"manappuram",
+"manappuram finance"
+],
+"MRPL": [
+"mangalore refinery & petrochemicals",
+"mrpl"
+],
+"MEESHO": [
+"meesho"
+],
+"MINDACORP": [
+"minda",
+"mindacorp"
+],
+"MSUMI": [
+"motherson sumi wiring india",
+"msumi"
+],
+"NATCOPHARM": [
+"natco pharma",
+"natcopharm"
+],
+"NBCC": [
+"nbcc",
+"nbcc (india)"
+],
+"NCC": [
+"ncc"
+],
+"NSLNISP": [
+"nmdc steel",
+"nslnisp"
+],
+"NH": [
+"narayana hrudayalaya",
+"nh"
+],
+"NAVA": [
+"nava"
+],
+"NAVINFLUOR": [
+"navin fluorine international",
+"navinfluor"
+],
+"NETWEB": [
+"netweb",
+"netweb technologies india"
+],
+"NEULANDLAB": [
+"neuland laboratories",
+"neulandlab"
+],
+"NEWGEN": [
+"newgen",
+"newgen software technologies"
+],
+"NIVABUPA": [
+"niva bupa health insurance",
+"nivabupa"
+],
+"NUVAMA": [
+"nuvama",
+"nuvama wealth management"
+],
+"NUVOCO": [
+"nuvoco",
+"nuvoco vistas"
+],
+"OLAELEC": [
+"ola electric mobility",
+"olaelec"
+],
+"OLECTRA": [
+"olectra",
+"olectra greentech"
+],
+"ONESOURCE": [
+"onesource",
+"onesource specialty pharma"
+],
+"PCBL": [
+"pcbl",
+"pcbl chemical"
+],
+"PGEL": [
+"pg electroplast",
+"pgel"
+],
+"PNBHOUSING": [
+"pnb housing finance",
+"pnbhousing"
+],
+"PTCIL": [
+"ptc industries",
+"ptcil"
+],
+"PVRINOX": [
+"pvr inox",
+"pvrinox"
+],
+"PARADEEP": [
+"paradeep",
+"paradeep phosphates"
+],
+"PFIZER": [
+"pfizer"
+],
+"PWL": [
+"physicswallah",
+"pwl"
+],
+"PINELABS": [
+"pine labs",
+"pinelabs"
+],
+"PIRAMALFIN": [
+"piramal finance",
+"piramalfin"
+],
+"PPLPHARMA": [
+"piramal pharma",
+"pplpharma"
+],
+"POLYMED": [
+"poly medicure",
+"polymed"
+],
+"POONAWALLA": [
+"poonawalla",
+"poonawalla fincorp"
+],
+"PFOCUS": [
+"pfocus",
+"prime focus"
+],
+"RRKABEL": [
+"r r kabel",
+"rrkabel"
+],
+"RBLBANK": [
+"rbl bank",
+"rblbank"
+],
+"RHIM": [
+"rhi magnesita india",
+"rhim"
+],
+"RITES": [
+"rites"
+],
+"RAILTEL": [
+"railtel",
+"railtel corporation of india"
+],
+"RAINBOW": [
+"rainbow",
+"rainbow childrens medicare"
+],
+"RKFORGE": [
+"ramkrishna forgings",
+"rkforge"
+],
+"REDINGTON": [
+"redington"
+],
+"RPOWER": [
+"reliance power",
+"rpower"
+],
+"SBFC": [
+"sbfc",
+"sbfc finance"
+],
+"SAGILITY": [
+"sagility"
+],
+"SAILIFE": [
+"sai life sciences",
+"sailife"
+],
+"SAMMAANCAP": [
+"sammaan capital",
+"sammaancap"
+],
+"SAPPHIRE": [
+"sapphire",
+"sapphire foods india"
+],
+"SARDAEN": [
+"sarda energy and minerals",
+"sardaen"
+],
+"SAREGAMA": [
+"saregama",
+"saregama india"
+],
+"SCHNEIDER": [
+"schneider",
+"schneider electric infrastructure"
+],
+"SCI": [
+"sci",
+"shipping corporation of india"
+],
+"SHYAMMETL": [
+"shyam metalics and energy",
+"shyammetl"
+],
+"SIGNATURE": [
+"signature",
+"signatureglobal (india)"
+],
+"SOBHA": [
+"sobha"
+],
+"SONACOMS": [
+"sona blw precision forgings",
+"sonacoms"
+],
+"SONATSOFTW": [
+"sonata software",
+"sonatsoftw"
+],
+"STARHEALTH": [
+"star health and allied insurance",
+"starhealth"
+],
+"SUMICHEM": [
+"sumichem",
+"sumitomo chemical india"
+],
+"SUNTV": [
+"sun tv network",
+"suntv"
+],
+"SPLPETRO": [
+"splpetro",
+"supreme petrochem"
+],
+"SWANCORP": [
+"swan",
+"swancorp"
+],
+"SYNGENE": [
+"syngene",
+"syngene international"
+],
+"SYRMA": [
+"syrma",
+"syrma sgs technology"
+],
+"TBOTEK": [
+"tbo tek",
+"tbotek"
+],
+"TATACHEM": [
+"tata chemicals",
+"tatachem"
+],
+"TATATECH": [
+"tata technologies",
+"tatatech"
+],
+"TTML": [
+"tata teleservices (maharashtra)",
+"ttml"
+],
+"TECHNOE": [
+"techno electric & engineering",
+"technoe"
+],
+"TEGA": [
+"tega",
+"tega industries"
+],
+"TEJASNET": [
+"tejas networks",
+"tejasnet"
+],
+"TENNIND": [
+"tenneco clean air india",
+"tennind"
+],
+"RAMCOCEM": [
+"ramcocem",
+"the ramco cements"
+],
+"TIMKEN": [
+"timken",
+"timken india"
+],
+"TITAGARH": [
+"titagarh",
+"titagarh rail systems"
+],
+"TARIL": [
+"taril",
+"transformers and rectifiers (india)"
+],
+"TRAVELFOOD": [
+"travel food services",
+"travelfood"
+],
+"TRIDENT": [
+"trident"
+],
+"TRITURBINE": [
+"triturbine",
+"triveni turbine"
+],
+"UCOBANK": [
+"uco bank",
+"ucobank"
+],
+"UTIAMC": [
+"uti asset management",
+"utiamc"
+],
+"URBANCO": [
+"urban",
+"urbanco"
+],
+"USHAMART": [
+"usha martin",
+"ushamart"
+],
+"VTL": [
+"vardhman textiles",
+"vtl"
+],
+"VIJAYA": [
+"vijaya",
+"vijaya diagnostic centre"
+],
+"WELCORP": [
+"welcorp",
+"welspun"
+],
+"WELSPUNLIV": [
+"welspun living",
+"welspunliv"
+],
+"WHIRLPOOL": [
+"whirlpool",
+"whirlpool of india"
+],
+"WOCKPHARMA": [
+"wockhardt",
+"wockpharma"
+],
+"ZFCVINDIA": [
+"zf commercial vehicle control systems india",
+"zfcvindia"
+],
+"ZEEL": [
+"zee entertainment enterprises",
+"zeel"
+],
+"ZENTEC": [
+"zen technologies",
+"zentec"
+],
+"ZENSARTECH": [
+"zensar technolgies",
+"zensartech"
+],
+"ZYDUSWELL": [
+"zydus wellness",
+"zyduswell"
+],
+"ECLERX": [
+"eclerx",
+"eclerx services"
+]
+}
