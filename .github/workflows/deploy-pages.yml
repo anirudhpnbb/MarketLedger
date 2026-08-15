@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [master]
+    branches: [main]
   schedule:
     # Every 30 min, 03:00-11:00 UTC (~08:30-16:30 IST), Mon-Fri -- covers
     # the NSE trading session so price/news data stays reasonably fresh.
